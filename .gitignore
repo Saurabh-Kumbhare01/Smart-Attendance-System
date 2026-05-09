@@ -1,0 +1,26 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Python caching
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Datasets and Models
+dataset/
+trainer/
+
+# Local databases
+students.csv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
